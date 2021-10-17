@@ -142,7 +142,8 @@ body {
 
 .popis {
     font-size: 16px;
-    padding-left: 30px;
+    padding: 20px 30px;
+
 }
 
 
@@ -160,19 +161,20 @@ body {
 }
 
 .velikosti li {
-    padding-left: 20px;
     display: inline-block;
+    padding: 10px;
 }
 
 .vybrana {
     color:#f15f42;
     border: 2px solid #f15f42;
     border-radius:50%;
+
 }
 
 .akce{
-    background-color:#f15f42;
+    padding-left:30px
     color:white;
-    padding-left: 30px;
+    border:2px solid #f15f42;
     border-radius: 30%;
 }
