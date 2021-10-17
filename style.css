@@ -66,6 +66,8 @@ body {
 body {
     font-family:'Rubik', sans-serif;
     background-color: #f5f5f5;
+    font-size: 14px;
+    font-weight: 400;
 }
 
 /* ----- Zbozi ---- */
@@ -84,13 +86,10 @@ body {
     padding-left: 30px;
 }
 
-
-.slogan p {
-    font-size: 16px;
-    font-weight: bold;
-}
     
 .slogan {
+    font-size: 16px;
+    font-weight: 500;
     color:white;
     padding-left: 30px;
     padding-top: 10px;
@@ -138,17 +137,11 @@ body {
     font-size: 14px;
     color:#959595;
     padding-left: 30px;
-
 }
 
+
 .popis {
-    font-size: 16px;
     padding: 20px 30px;
-
-}
-
-
-.popis {
     border-bottom-style: solid;
     border-bottom-color: #06d7c1;
     border-bottom-width: 2px;
@@ -175,7 +168,7 @@ body {
 }
 
 .akce{
-    padding: 30px;
+    padding: 70px 30px 10px 30px;
 }
 
 .akce a{
