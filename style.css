@@ -145,6 +145,14 @@ body {
     padding-left: 30px;
 }
 
+
+.popis {
+    border-bottom-style: solid;
+    border-bottom-color: #06d7c1;
+    border-bottom-width: 2px;
+}
+
+
 .detaily h2 {
     font-size: 18px;
     font-weight: 500;
@@ -155,6 +163,7 @@ body {
     padding-left: 20px;
     display: inline-block;
 }
+
 
 .akce{
     background-color:#f15f42;
