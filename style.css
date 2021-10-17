@@ -131,6 +131,7 @@ body {
     font-size: 20px;
     font-weight: 500;
     padding-left: 30px;
+    text-transform: uppercase;
 }
 
 .produkt {
@@ -158,6 +159,7 @@ body {
     font-size: 18px;
     font-weight: 500;
     padding-left: 30px;
+    text-transform: uppercase;
 }
 
 .velikosti li {
@@ -173,8 +175,22 @@ body {
 }
 
 .akce{
-    padding-left:30px
-    color:white;
-    border:2px solid #f15f42;
-    border-radius: 30%;
+    padding: 30px;
+}
+
+.akce a{
+    color: white;
+    background-color: #f15f42;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.akce a:hover {
+    background-color: #959595;
+}
+
+a:focus {
+    background-color: #959595;
 }
