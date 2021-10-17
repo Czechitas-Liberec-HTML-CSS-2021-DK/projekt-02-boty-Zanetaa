@@ -164,9 +164,15 @@ body {
     display: inline-block;
 }
 
+.vybrana {
+    color:#f15f42;
+    border: 2px solid #f15f42;
+    border-radius:50%;
+}
 
 .akce{
     background-color:#f15f42;
     color:white;
     padding-left: 30px;
+    border-radius: 30%;
 }
