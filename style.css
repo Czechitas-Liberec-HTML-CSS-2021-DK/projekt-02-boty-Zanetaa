@@ -70,9 +70,6 @@ body {
     font-weight: 400;
 }
 
-/* ----- Zbozi ---- */
-
-
 /* ----- Vizual ---- */
 
 .vizual {
@@ -167,11 +164,11 @@ body {
 
 }
 
-.akce{
+.akce {
     padding: 70px 30px 10px 30px;
 }
 
-.akce a{
+.akce a {
     color: white;
     background-color: #f15f42;
     text-decoration: none;
