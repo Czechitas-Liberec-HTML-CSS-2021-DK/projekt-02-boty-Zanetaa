@@ -149,6 +149,7 @@ body {
     font-size: 18px;
     font-weight: 500;
     padding-left: 30px;
+    padding-top: 30px;
     text-transform: uppercase;
 }
 
@@ -165,7 +166,7 @@ body {
 }
 
 .akce {
-    padding: 70px 30px 10px 30px;
+    padding: 40px 30px 30px 30px;
 }
 
 .akce a {
